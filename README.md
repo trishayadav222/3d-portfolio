@@ -44,8 +44,7 @@ An interactive 3D web portfolio featuring modern glassmorphism UI design, smooth
     *   **Glassmorphism Theme:** Dark-mode UI layout with red neon wireframe highlights.
     *   **Responsive Modules:** Dedicated sections for Overview, About, Skills, Certifications, Projects, and Contact.
 *   **Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Three.js, Git
-*   🔗 **[Live Demo](https://your-portfolio-link.com)** | 📁 **[Source Code](https://github.com/your-username/3d-portfolio)**
-
+*   
 ---
 
 ### 🏥 **Health Sathi** — Web Application
@@ -55,7 +54,6 @@ A healthcare management platform tailored for digital patient record management 
     *   Structured patient record access and emergency support routing system.
     *   Responsive and user-friendly interface backed by relational data persistence.
 *   **Tech Stack:** HTML/CSS, JavaScript, Python, SQL
-*   📁 **[Source Code](https://github.com/your-username/health-sathi)**
 
 ---
 
@@ -66,7 +64,6 @@ A Java-based lossless file compression tool utilizing binary tree traversal and 
     *   Implements greedy algorithmic trees to generate optimal variable-length binary codes.
     *   Demonstrates efficient bit manipulation, stack management, and data structure execution.
 *   **Tech Stack:** Java, Data Structures & Algorithms
-*   📁 **[Source Code](https://github.com/your-username/huffman-compressor)**
 
 ---
 
@@ -92,13 +89,13 @@ A Java-based lossless file compression tool utilizing binary tree traversal and 
 Open for full-stack web development internships and software project collaborations.
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/trisha-yadav222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/trishayadav222" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:trishayadav.in@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
