@@ -75,15 +75,6 @@ A Java-based lossless file compression tool utilizing binary tree traversal and 
 
 ---
 
-## 📈 Engineering Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF334B&icon_color=FF334B&text_color=C9D1D9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF334B&text_color=C9D1D9&hide=html,css" width="48%" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Initiate Connection
 
 Open for full-stack web development internships and software project collaborations.
